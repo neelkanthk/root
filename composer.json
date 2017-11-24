@@ -1,0 +1,7 @@
+{
+    "name": "neelkanthk/root",
+    "description": "Root is a lightweight foundation for developing great MVC applications using PHP.",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
